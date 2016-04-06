@@ -1,0 +1,43 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+ body {
+     padding-bottom: 20px;
+ }
+
+.jumbotron .container .btn {
+	background-color: #930A0A;
+}
+
+.jumbotron .container .btn:hover {
+	background-color: #B00C0C;
+}
+
+#recommended h2 {
+	color: #B00C0C;
+
+}
+nav {
+	z-index: 1000;
+	width:100%;
+}
+
+.col-md-4 .btn {
+	color: #fff;
+	background-color: #930A0A;
+}
+
+.col-md-4 .btn:hover {
+	background-color: #B00C0C;
+}
+
+.img-thumbnail:hover {
+	background-color: #969696;
+}
+
+
+
+
+
+
